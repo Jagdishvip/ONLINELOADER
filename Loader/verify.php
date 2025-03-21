@@ -6,7 +6,7 @@ header("Content-Type: application/json");
 
 // Set your valid keys here
 $valid_keys = [
-    "USER_KEY_1",
+    "JKPAPA",
     "USER_KEY_2",
     "USER_KEY_3"
 ];
